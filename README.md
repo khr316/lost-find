@@ -17,7 +17,7 @@
 
 ### 박소라 P
 
-- 백엔드 Controller, Dao, 프론트엔드 Html, css
+- 백엔드 Controller, Dao, 프론트엔드 Html, css, javascript
 - 1. 회원가입
      아이디 중복체크, 빈 칸 입력 필수, 비밀번호 & 비밀번호 확인 일치
   2. 로그인
@@ -39,7 +39,7 @@
     
 ### 유영훈 Y
 
-- 프론트엔드 Html수정 + css
+- 프론트엔드 Html수정 + css , javascript
 - 1. 분실물 게시판
   2. 습득물 게시판
   3. 분실물 검색 결과
@@ -59,7 +59,7 @@
 ### 노광우 N
 
 - 조장
-- 백엔드 Controller, Dao, Html
+- 백엔드 Controller, Dao, Html, javascript
 - 1. 메인페이지
   2. 분실물 게시판
   3. 습득물 게시판
@@ -67,7 +67,7 @@
   5. 습득물 검색 결과
      최신순, 오래된 순
   6. 비밀번호 찾기
-     가입한 이메일로 임시 비밀번호 발금
+     가입한 이메일로 임시 비밀번호 발급
      => K 가 구현한 비밀번호 찾기 기능 개선
 
 - 총괄 관리 및 서류 작성
@@ -76,7 +76,7 @@
 
 ### 김혜림 K
 
-- 백엔드 Controller, Dao, 프론트엔드 Html, css
+- 백엔드 Controller, Dao, 프론트엔드 Html, css, javascript
 - 1. 마이페이지
      회원 정보 수정 (비밀번호, 전화번호, 이메일)
      쪽지 확인
