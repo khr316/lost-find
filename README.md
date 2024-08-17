@@ -1,6 +1,6 @@
 # Lost and Found Platform
 
-![readme_mockup](https://github.com/khr316/sprint1/blob/main/%EB%A9%94%EC%9D%B8.png)
+![readme_mockup](https://github.com/khr316/lost-find/blob/main/%EB%A9%94%EC%9D%B8.png)
 
 ## 팀원 구성
 
