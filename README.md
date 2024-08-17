@@ -1,6 +1,6 @@
 # Lost and Found Platform
 
-![readme_mockup](https://github.com/khr316/lost-find/메인인.png)
+![readme_mockup](https://github.com/khr316/lost-find/blob/main/메인.png)
 
 ## 팀원 구성
 
@@ -150,7 +150,7 @@
 
 ### 데이터베이스 설계
 
-![데이터베이스설계](https://github.com/khr316/lost-find/데이터베이스설계.png)
+![데이터베이스 설계](https://github.com/khr316/lost-find/blob/main/데이터베이스설계.png)
 
 <br>
 
@@ -214,3 +214,5 @@ src
 
 ```
 <br>
+
+![시스템 구조](https://github.com/khr316/lost-find/blob/main/시스템구조.png)
