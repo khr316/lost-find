@@ -215,4 +215,4 @@ src
 ```
 <br>
 
-![시스템 구조](https://github.com/khr316/lost-find/blob/main/시스템구조.png)
+![시스템 구조](https://github.com/khr316/lost-find/blob/main/시스템구조.jpeg)
