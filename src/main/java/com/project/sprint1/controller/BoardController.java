@@ -86,7 +86,7 @@ public class BoardController {
         String date = year +"년"+ month +"월"+ day +"일"; // 하나의 값(날짜)으로 통합
 
         // 이미지 저장 경로 (vscode 누구 컴퓨터로 쓰는지에 따라 경로 수정 필수)
-        String uploadPath = "C:/KEPCO/sprint1_김혜림/sprint1_김혜림/sprint1_최종최종최종/src/main/resources/static/img/";
+        String uploadPath = "C:/Users/김혜림/Desktop/khr/KEPCO_LuckyPYNK/sprint1_김혜림/sprint1_김혜림/sprint1_최종최종최종/src/main/resources/static/img/";
         String filePath;
 
         // 이미지 등록 할 경우
