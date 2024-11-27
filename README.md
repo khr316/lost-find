@@ -24,8 +24,8 @@
 <br><br>
 
 ### 비밀번호 찾기
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_비번찾기.jpeg)
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_메일.PNG)
+![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_비번찾기.jpeg)<br>
+![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_메일.PNG)<br>
 가입한 아이디와 이메일 정보를 통해 임시비밀번호 발급
 <br><br>
 
@@ -52,8 +52,8 @@
 <br><br>
 
 ### 게시판
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_게시판1.jpeg)
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_게시판2.jpeg)
+![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_게시판1.jpeg)<br>
+![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_게시판2.jpeg)<br>
 1. 우측 상단 버튼을 통해 분실물, 습득물 게시판 자유롭게 이동 가능
 2. 제목 키워드 검색 기능
 3. 검색창 우측 select 를 통해 지역별 검색 가능
@@ -74,8 +74,8 @@
 <br><br>
 
 ### 쪽지 확인
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_쪽지확인.jpeg)
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_쪽지확인2.jpeg)
+![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_쪽지확인.jpeg)<br>
+![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_쪽지확인2.jpeg)<br>
 보낸 쪽지, 받은 쪽지 확인 및 답장
 <br><br>
 
@@ -85,8 +85,8 @@
 <br><br>
 
 ### 관리자
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_main관리자.jpeg)
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_관리자페이지.jpeg)
+![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_main관리자.jpeg)<br>
+![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_관리자페이지.jpeg)<br>
 1. 메뉴 상단바 관리자페이지
 2. 가입한 회원 정보 확인 및 탈퇴 시키기
 3. 등록된 게시글 관리 가능 (수정 및 삭제)
@@ -94,5 +94,5 @@
 
 
 #### 시스템
-![ERD](https://raw.githubusercontent.com/khr316/lost-find/main/데이터베이스설계.png)
-![아키텍처](https://raw.githubusercontent.com/khr316/lost-find/main/시스템구조.jpeg)
+![ERD](https://raw.githubusercontent.com/khr316/lost-find/main/데이터베이스설계.png)<br>
+![아키텍처](https://raw.githubusercontent.com/khr316/lost-find/main/시스템구조.jpeg)<br>
