@@ -74,8 +74,8 @@
 <br><br>
 
 ### 쪽지 확인
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_쪽지확인.jpeg)<br>
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_쪽지확인2.jpeg)<br>
+![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_쪽지확인.PNG)<br>
+![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_쪽지확인2.PNG)<br>
 보낸 쪽지, 받은 쪽지 확인 및 답장
 <br><br>
 
