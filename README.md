@@ -6,100 +6,6 @@
 
 
 
-### 로그인 전 메인페이지
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_main.jpeg)
-간단한 사이트 이용 정보 확인
-<br><br>
-
-### 회원가입
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_회원가입.jpeg)
-1. 아이디 중복체크 필수
-2. 비밀번호 = 비밀번호확인
-3. 모든 칸 입력 필수
-<br><br>
-
-### 로그인
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_로그인.jpeg)
-모든 칸 입력 필수
-<br><br>
-
-### 비밀번호 찾기
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_비번찾기.jpeg)<br>
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_메일.PNG)<br>
-가입한 아이디와 이메일 정보를 통해 임시비밀번호 발급
-<br><br>
-
-### 로그인 후 메인페이지
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_main로그인.jpeg)
-메뉴 상단바 변화
-<br><br>
-
-### 마이페이지
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_마이페이지.jpeg)
-1. 개인정보 확인 및 수정 가능
-2. 쪽지 확인 버튼 옆 알림 기능
-3. 작성한 글 확인
-   분실물 상태 변경 기능 (찾는중 -> 찾기완료)
-4. 탈퇴 -> DB에 저장된 회원 정보 삭제됨
-<br><br>
-
-### 글쓰기
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_글쓰기.jpeg)
-1. 분실물 or 습득물 등록 선택
-2. 위치 선택 후 상세 위치 입력
-3. 이미지 파일 미등록시 기본 이미지로 등록됨
-4. 등록 물품 카테고리 선택 후 상세 카테고리 선택 가능
-<br><br>
-
-### 게시판
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_게시판1.jpeg)<br>
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_게시판2.jpeg)<br>
-1. 우측 상단 버튼을 통해 분실물, 습득물 게시판 자유롭게 이동 가능
-2. 제목 키워드 검색 기능
-3. 검색창 우측 select 를 통해 지역별 검색 가능
-4. 게시글 등록 최신순, 오래된순 조회 가능
-<br><br>
-
-### 게시글
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_게시글.jpeg)
-1. 본인인 경우 게시글 수정 및 삭제 가능
-2. 댓글 기능 - 본인인 경우 수정 및 삭제 가능
-3. 작성자에게 다이렉트 쪽지 보내기 가능
-<br><br>
-
-### 쪽지 페이지
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_쪽지2.jpeg)
-1. 사이트에 가입한 회원들에게 쪽지 보내기 가능 (관리자 아이디는 표시 X)
-2. 미확인 쪽지 알림 기능
-<br><br>
-
-### 쪽지 확인
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_쪽지확인.PNG)<br>
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_쪽지확인2.PNG)<br>
-보낸 쪽지, 받은 쪽지 확인 및 답장
-<br><br>
-
-### 쪽지 보내기
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_쪽지답장.jpeg)
-보내는 이와 받는 이 아이디 확인 가능
-<br><br>
-
-### 관리자
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_main관리자.jpeg)<br>
-![Pynk](https://raw.githubusercontent.com/khr316/lost-find/main/웹사이트/pynk_관리자페이지.jpeg)<br>
-1. 메뉴 상단바 관리자페이지
-2. 가입한 회원 정보 확인 및 탈퇴 시키기
-3. 등록된 게시글 관리 가능 (수정 및 삭제)
-<br><br>
-
-
-#### 시스템
-![ERD](https://raw.githubusercontent.com/khr316/lost-find/main/데이터베이스설계.png)<br>
-![아키텍처](https://raw.githubusercontent.com/khr316/lost-find/main/시스템구조.jpeg)<br>
-
-
-
-
 # **luckyPYNK - 분실물/습득물 관리 웹 플랫폼**
 
 ## **프로젝트 개요**
@@ -109,14 +15,12 @@ luckyPYNK은 분실물 및 습득물을 관리할 수 있는 **웹 플랫폼**�
 
 사용 친화적이고 직관적인 **UI/UX**를 제공하는 것을 목표로 합니다.
 
----
 
 ## **프로젝트 정보**
 - **프로젝트 기간:** 2024.07.04 ~ 2024.07.15 (2주)  
 - **팀 구성:** 4명  
   - **박소라, 유영훈, 노광우, 김혜림(본인)**
 
----
 
 ## **역할 분담**
 
@@ -130,7 +34,6 @@ luckyPYNK은 분실물 및 습득물을 관리할 수 있는 **웹 플랫폼**�
 #### **프론트엔드**
 - **메인 페이지, 로그인/회원가입 페이지**: UI 디자인 및 문구 작성
 
----
 
 ### **유영훈**
 #### **프론트엔드**
@@ -139,7 +42,6 @@ luckyPYNK은 분실물 및 습득물을 관리할 수 있는 **웹 플랫폼**�
 - **마이페이지 및 관리자 페이지**: 디자인 및 UI 구현
 - **게시글 페이지**: 글쓰기 및 상세 보기 페이지
 
----
 
 ### **노광우**
 #### **백엔드**
@@ -150,9 +52,9 @@ luckyPYNK은 분실물 및 습득물을 관리할 수 있는 **웹 플랫폼**�
 #### **조장 역할**
 - **프로젝트 관리 및 서류 작성**
 
----
 
 ### **김혜림 (본인)**
+#### **DB 테이블 설계**
 #### **백엔드**
 - **마이페이지**: 회원 정보 수정, 쪽지 확인, 작성한 게시글 관리
 - **글쓰기 페이지**: 물품 선택, 위치 검색, 이미지 등록
@@ -171,7 +73,6 @@ luckyPYNK은 분실물 및 습득물을 관리할 수 있는 **웹 플랫폼**�
 - **프론트엔드**: HTML, CSS, JavaScript, Thymeleaf
 - **기타 도구**: Git, FileZilla
 
----
 
 ## **프로젝트 목표**
 1. **분실물 찾기 성공률 향상**  
@@ -183,7 +84,6 @@ luckyPYNK은 분실물 및 습득물을 관리할 수 있는 **웹 플랫폼**�
 4. **사용자 친화적 UI/UX 제공**  
    직관적이고 사용하기 쉬운 웹 디자인 구현.  
 
----
 
 ## **요구사항 분석**
 - **회원가입 및 로그인**: 인증된 사용자만 플랫폼 이용 가능.
@@ -192,17 +92,15 @@ luckyPYNK은 분실물 및 습득물을 관리할 수 있는 **웹 플랫폼**�
 - **쪽지 기능**: 사용자 간 비공식적 소통 지원.
 - **비밀번호 찾기**: 이메일을 통한 비밀번호 재설정 기능.
 
----
 
 ## **시스템 아키텍처**
 - **Controller**, **Service**, **DAO**로 계층화된 구조.  
 - 템플릿 엔진인 **Thymeleaf**로 UI와 데이터 연동.  
 - **MySQL**로 데이터를 관리하며, **Spring Mail**로 이메일 서비스 구현.  
 
----
 
 ## **프로젝트 구조**
----
+
 src
 ├── main
 │   ├── java
@@ -258,10 +156,62 @@ src
 │           └── signup.html
 │       └── application.properties
 
----
+src
+├── main
+│   ├── java
+│   │   └── com
+│   │       └── project
+│   │           └── sprint1
+│   │               ├── controller
+│   │               │   ├── AdminController.java        # 관리자 관련 기능 컨트롤러
+│   │               │   ├── BoardController.java        # 게시판 관련 기능 컨트롤러
+│   │               │   ├── MainController.java         # 메인 페이지 관련 컨트롤러
+│   │               │   ├── MessageController.java      # 쪽지 관련 기능 컨트롤러
+│   │               │   ├── MypageController.java       # 마이페이지 관련 컨트롤러
+│   │               │   ├── PasswordController.java     # 비밀번호 찾기 관련 컨트롤러
+│   │               │   └── UserController.java         # 사용자 관리 기능 컨트롤러
+│   │               ├── dao
+│   │               │   ├── AdminDao.java               # 관리자 데이터 접근 객체
+│   │               │   ├── BoardDao.java               # 게시판 데이터 접근 객체
+│   │               │   ├── MainDao.java                # 메인 페이지 데이터 접근 객체
+│   │               │   ├── MessageDao.java             # 쪽지 데이터 접근 객체
+│   │               │   ├── MypageDao.java              # 마이페이지 데이터 접근 객체
+│   │               │   ├── PasswordDao.java            # 비밀번호 찾기 데이터 접근 객체
+│   │               │   ├── PostDao.java                # 게시글 데이터 접근 객체
+│   │               │   └── UserDao.java                # 사용자 데이터 접근 객체
+│   │               ├── service
+│   │               │   └── EmailService.java           # 이메일 관련 서비스
+│   │               └── Sprint1Application.java         # Spring Boot 메인 애플리케이션
+│   └── resources
+│       ├── static
+│       │   ├── css                                     # CSS 파일 디렉터리
+│       │   └── img                                     # 이미지 파일 디렉터리
+│       ├── js                                          # JavaScript 파일 디렉터리
+│       └── templates                                   # Thymeleaf 템플릿 디렉터리
+│           ├── board
+│           │   ├── category.html                       # 게시판 카테고리 템플릿
+│           │   ├── detail.html                         # 게시판 상세 보기 템플릿
+│           │   ├── insert.html                         # 게시글 작성 템플릿
+│           │   └── location.html                       # 위치 검색 템플릿
+│           ├── menu
+│           │   ├── finditem.html                       # 습득물 게시판 템플릿
+│           │   ├── lostitem.html                       # 분실물 게시판 템플릿
+│           │   ├── searchfi.html                       # 습득물 검색 결과 템플릿
+│           │   └── searchli.html                       # 분실물 검색 결과 템플릿
+│           ├── message
+│           │   ├── message_insert.html                 # 쪽지 작성 템플릿
+│           │   ├── message_notice.html                 # 쪽지 알림 템플릿
+│           │   └── message.html                        # 쪽지 확인 템플릿
+│           ├── adminpage.html                          # 관리자 페이지 템플릿
+│           ├── find-password.html                      # 비밀번호 찾기 템플릿
+│           ├── login.html                              # 로그인 페이지 템플릿
+│           ├── main.html                               # 메인 페이지 템플릿
+│           ├── mypage.html                             # 마이페이지 템플릿
+│           ├── password.html                           # 비밀번호 변경 템플릿
+│           └── signup.html                             # 회원가입 페이지 템플릿
+│       └── application.properties                      # 애플리케이션 설정 파일
 
 
----
 
 ## **주요 기능**
 1. **회원가입 및 로그인**: 인증된 사용자만 이용 가능.
@@ -269,12 +219,6 @@ src
 3. **쪽지 기능**: 비공식적 사용자 간 소통.
 4. **관리자 페이지**: 회원 및 게시글 관리.
 
----
 
 ## **참고 사이트**
 - [Lost112](http://www.lost112.go.kr) - 국가 분실물 종합 관리 시스템
-
----
-
-## **페이지 확인**
-[web site](https://khr316.tistory.com/entry/KEPCO-luckyPYNK-sprint)
