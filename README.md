@@ -202,7 +202,61 @@ luckyPYNK은 분실물 및 습득물을 관리할 수 있는 **웹 플랫폼**�
 ---
 
 ## **프로젝트 구조**
-src ├── main │ ├── java │ │ └── com │ │ └── project │ │ └── sprint1 │ │ ├── controller │ │ │ ├── AdminController.java │ │ │ ├── BoardController.java │ │ │ ├── MainController.java │ │ │ ├── MessageController.java │ │ │ ├── MypageController.java │ │ │ ├── PasswordController.java │ │ │ └── UserController.java │ │ ├── dao │ │ │ ├── AdminDao.java │ │ │ ├── BoardDao.java │ │ │ ├── MessageDao.java │ │ │ ├── PostDao.java │ │ │ └── UserDao.java │ │ ├── service │ │ │ └── EmailService.java │ │ └── Sprint1Application.java │ └── resources │ ├── static │ │ ├── css │ │ └── img │ ├── js │ └── templates │ ├── board │ ├── message │ ├── menu │ ├── adminpage.html │ ├── find-password.html │ ├── main.html │ ├── mypage.html │ ├── password.html │ └── signup.html │ └── application.properties
+src
+├── main
+│   ├── java
+│   │   └── com
+│   │       └── project
+│   │           └── sprint1
+│   │               ├── controller
+│   │               │   ├── AdminController.java
+│   │               │   ├── BoardController.java
+│   │               │   ├── MainController.java
+│   │               │   ├── MessageController.java
+│   │               │   ├── MypageController.java
+│   │               │   ├── PasswordController.java
+│   │               │   └── UserController.java
+│   │               ├── dao
+│   │               │   ├── AdminDao.java
+│   │               │   ├── BoardDao.java
+│   │               │   ├── MainDao.java
+│   │               │   ├── MessageDao.java
+│   │               │   ├── MypageDao.java
+│   │               │   ├── PasswordDao.java
+│   │               │   ├── PostDao.java
+│   │               │   └── UserDao.java
+│   │               ├── service
+│   │               │   └── EmailService.java
+│   │               └── Sprint1Application.java
+│   └── resources
+│       ├── static
+│       │   ├── css
+│       │   └── img
+│       ├── js
+│       └── templates
+│           ├── board
+│           │   ├── category.html
+│           │   ├── detail.html
+│           │   ├── insert.html
+│           │   └── location.html
+│           ├── menu
+│           │   ├── finditem.html
+│           │   ├── lostitem.html
+│           │   ├── searchfi.html
+│           │   └── searchli.html
+│           ├── message
+│           │   └── message_insert.html
+│           │   └── message_notice.html
+│           │   └── message.html
+│           ├── adminpage.html
+│           ├── find-password.html
+│           ├── login.html
+│           ├── main.html
+│           ├── mypage.html
+│           ├── password.html
+│           └── signup.html
+│       └── application.properties
+
 
 ---
 
