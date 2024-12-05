@@ -166,7 +166,7 @@ src
 ![시스템 구조](https://github.com/khr316/lost-find/blob/main/시스템구조.jpeg?raw=true)
 
 #### DB 설계
-![DB 설계](https://github.com/khr316/lost-find/blob/main/데이터베이스설계.jpeg?raw=true)
+![DB 설계](https://github.com/khr316/lost-find/blob/main/데이터베이스설계.png?raw=true)
 
 
 ## **참고 사이트**
