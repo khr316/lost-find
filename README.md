@@ -163,10 +163,10 @@ src
 
 
 #### 시스템 구조
-![시스템 구조](https://github.com/khr316/lost-find/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B5%AC%EC%A1%B0.jpeg?raw=true)
+![시스템 구조](https://github.com/khr316/lost-find/blob/main/시스템구조.jpeg?raw=true)
 
 #### DB 설계
-![DB 설계](https://github.com/khr316/lost-find/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B5%AC%EC%A1%B0.jpeg?raw=true)
+![DB 설계](https://github.com/khr316/lost-find/blob/main/데이터베이스설계.jpeg?raw=true)
 
 
 ## **참고 사이트**
